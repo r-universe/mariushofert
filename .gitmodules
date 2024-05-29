@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "crop"]
+	path = crop
+	url = https://github.com/cran/crop
+[submodule "gnn"]
+	path = gnn
+	url = https://github.com/cran/gnn
+[submodule "nvmix"]
+	path = nvmix
+	url = https://github.com/cran/nvmix
+[submodule "qrmdata"]
+	path = qrmdata
+	url = https://github.com/cran/qrmdata
+[submodule "qrmtools"]
+	path = qrmtools
+	url = https://github.com/cran/qrmtools
+[submodule "qrng"]
+	path = qrng
+	url = https://github.com/cran/qrng
+[submodule "simsalapar"]
+	path = simsalapar
+	url = https://github.com/cran/simsalapar
